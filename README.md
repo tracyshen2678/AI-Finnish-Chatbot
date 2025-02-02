@@ -11,7 +11,7 @@ Speech output: Google Text-to-Speech (gTTS)
 
 Main benefit: Can be customized and fine-tuned with your own data
 
-### App 2(gemini.py): API Version
+### App 2 (gemini.py): API Version
 Uses Google's Gemini API for better responses:
 
 Speech recognition: Finnish-NLP/whisper-large-finnish-v3
