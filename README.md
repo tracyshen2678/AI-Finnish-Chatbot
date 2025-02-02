@@ -1,8 +1,8 @@
 # AI-Finnish-Chatbot
 
-Two Finnish language chatbots that can understand speech, generate responses, and speak back to you.
+## Two Finnish language chatbots that can understand speech, generate responses, and speak back to you.
 
-App 1（app.py): Open-Source Version
+### App 1（app.py): Open-Source Version
 Uses open-source models for Finnish language processing:
 
 Speech recognition: Finnish-NLP/whisper-large-finnish-v3
@@ -11,7 +11,7 @@ Speech output: Google Text-to-Speech (gTTS)
 
 Main benefit: Can be customized and fine-tuned with your own data
 
-App 2(gemini.py): API Version
+### App 2(gemini.py): API Version
 Uses Google's Gemini API for better responses:
 
 Speech recognition: Finnish-NLP/whisper-large-finnish-v3
